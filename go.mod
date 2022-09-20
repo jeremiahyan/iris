@@ -26,7 +26,7 @@ require (
 	github.com/kataras/golog v0.1.7
 	github.com/kataras/jwt v0.1.8
 	github.com/kataras/neffos v0.0.20
-	github.com/kataras/pio v0.0.10
+	github.com/kataras/pio v0.0.11
 	github.com/kataras/sitemap v0.0.5
 	github.com/kataras/tunnel v0.0.4
 	github.com/klauspost/compress v1.15.9
@@ -42,7 +42,7 @@ require (
 	go.etcd.io/bbolt v1.3.6
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
 	golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b
-	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab
+	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8
 	golang.org/x/text v0.3.7
 	golang.org/x/time v0.0.0-20220722155302-e5dcc9cfc0b9
 	google.golang.org/protobuf v1.28.1
